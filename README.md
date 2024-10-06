@@ -12,7 +12,7 @@
 - JavaScript
 
 ## Languages and Tools:
-## Languages and Tools:
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />

@@ -49,11 +49,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
        alt="mongodb" width="40" height="40"/>
 </a>
+  
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
        alt="nodejs" width="40" height="40"/>
 </a>
 
+
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" 
+       alt="postman" width="40" height="40"/>
+</a>
 
 </p>
 

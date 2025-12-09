@@ -60,6 +60,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" 
        alt="postman" width="40" height="40"/>
 </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
+       alt="docker" width="40" height="40"/>
+</a>
+
 
 </p>
 
